@@ -1,4 +1,4 @@
-# 命运大转盘 (Destiny Wheel)
+# 脑洞转转乐 (Destiny Wheel)
 
 基于 OpenHarmony 5.0 (API 12) 开发的极简决策转盘应用，适配进迭时空 K1 RISC-V 开发板。
 

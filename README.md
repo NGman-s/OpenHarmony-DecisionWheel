@@ -16,5 +16,5 @@
 ## 🚀 快速开始
 1. 克隆仓库: `git clone https://github.com/您的用户名/仓库名.git`
 2. 使用 DevEco Studio 打开项目。
-3. [cite_start]确保 `build-profile.json5` 中 `runtimeOS` 设置为 `OpenHarmony` [cite: 80]。
+3.确保 `build-profile.json5` 中 `runtimeOS` 设置为 `OpenHarmony` 。
 4. 连接 K1 设备或使用模拟器运行。

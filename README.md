@@ -9,15 +9,12 @@
 - **防误触**: 必须添加选项后才能开始转动。
 
 ## 🛠️ 开发环境
-- [cite_start]**IDE**: DevEco Studio 5.0.5.310 [cite: 4]
-- [cite_start]**SDK**: OpenHarmony API 12 (Full SDK) [cite: 19, 21]
-- [cite_start]**Hardware**: SpacemiT K1 (RISC-V Architecture) [cite: 98]
+- **IDE**: DevEco Studio 5.0.5.310 
+- **SDK**: OpenHarmony API 12 (Full SDK) 
+- **Hardware**: SpacemiT K1 (RISC-V Architecture) 
 
 ## 🚀 快速开始
 1. 克隆仓库: `git clone https://github.com/您的用户名/仓库名.git`
 2. 使用 DevEco Studio 打开项目。
 3. [cite_start]确保 `build-profile.json5` 中 `runtimeOS` 设置为 `OpenHarmony` [cite: 80]。
 4. 连接 K1 设备或使用模拟器运行。
-
-## 📸 截图
-(这里可以放一张您应用运行时的截图)
